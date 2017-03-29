@@ -1,7 +1,8 @@
-*MPSoC Simulator
+#A simplescalar based simulator formpsoc
+##MPSoC Simulator
 This is a MPSoc Simulator on linux.
 ***
-*What is MPSoC
+##What is MPSoC
 [MPSoC Wiki](https://en.wikipedia.org/wiki/MPSoC)
 The multiprocessor system-on-chip (MPSoC) is a system-on-a-chip (SoC) which uses multiple processors (see multi-core), usually targeted for embedded applications. It is used by platforms that contain multiple, usually heterogeneous, processing elements with specific functionalities reflecting the need of the expected application domain, a memory hierarchy (often using scratchpad RAM and DMA) and I/O components. All these components are linked to each other by an on-chip interconnect. These architectures meet the performance needs of multimedia applications, telecommunication architectures, network security and other application domains while limiting the power consumption through the use of specialised processing elements and architecture.
 ---
