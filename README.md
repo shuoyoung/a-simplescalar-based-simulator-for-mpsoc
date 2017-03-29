@@ -1,4 +1,4 @@
-# A simplescalar based simulator formpsoc
+# A simplescalar based simulator for mpsoc
 ## MPSoC Simulator
 This is a MPSoc Simulator on linux. **Please note that, In this repository I just modified a little source code, many files were created and modified by my "tutor".  :)**
 ***
