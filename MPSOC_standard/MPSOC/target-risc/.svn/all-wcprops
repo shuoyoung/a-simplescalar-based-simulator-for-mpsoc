@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/CMP/!svn/ver/23/MP_MIPS_CMP/target-risc
+END
+mmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/target-risc/mmap.h
+END
+risc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/target-risc/risc.c
+END
+syscall.c.fstat64
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/target-risc/syscall.c.fstat64
+END
+risc.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/target-risc/risc.h
+END
+symbol.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/target-risc/symbol.c
+END
+loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/CMP/!svn/ver/20/MP_MIPS_CMP/target-risc/loader.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/target-risc/config.h
+END
+elf-em.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/target-risc/elf-em.h
+END
+syscall.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/CMP/!svn/ver/23/MP_MIPS_CMP/target-risc/syscall.c
+END
+elf.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/target-risc/elf.h
+END
+risc.def.back
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/target-risc/risc.def.back
+END
+risc.def
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/target-risc/risc.def
+END
+syscall.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/CMP/!svn/ver/23/MP_MIPS_CMP/target-risc/syscall.h
+END
+configlit.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/target-risc/configlit.h
+END
+ecoff.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/target-risc/ecoff.h
+END
+configbig.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/target-risc/configbig.h
+END

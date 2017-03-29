@@ -1,0 +1,1 @@
+target-risc/symbol.c

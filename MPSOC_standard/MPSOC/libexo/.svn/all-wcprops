@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/libexo
+END
+libexo.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/libexo/libexo.c
+END
+exolex.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/libexo/exolex.c
+END
+sysprobe
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/libexo/sysprobe
+END
+libexo.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/libexo/libexo.h
+END
+exo-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/libexo/exo-test.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/libexo/Makefile
+END
+exolex.l
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/libexo/exolex.l
+END

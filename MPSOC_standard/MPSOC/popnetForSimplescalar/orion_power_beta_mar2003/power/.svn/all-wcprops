@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power
+END
+SIM_power_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_util.c
+END
+README.bus
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/README.bus
+END
+SIM_power_router_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_router_internal.h
+END
+SIM_power_array.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_array.h
+END
+SIM_power.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power.h
+END
+SIM_power_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_time.c
+END
+SIM_power_cam.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_cam.c
+END
+temp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/temp
+END
+test_permu.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/test_permu.c
+END
+SIM_port_ibm.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_port_ibm.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/Makefile
+END
+SIM_reg_power.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_reg_power.c
+END
+SIM_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_port.h
+END
+SIM_power_array_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_array_internal.h
+END
+SIM_router_power.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_router_power.c
+END
+SIM_power_router.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_router.c
+END
+SIM_power_ALU.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_ALU.c
+END
+SIM_port_alpha.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_port_alpha.h
+END
+SIM_reg_power.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_reg_power.h
+END
+SIM_power_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_test.h
+END
+dump_para.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/dump_para.c
+END
+SIM_power_router.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_router.h
+END
+SIM_router_power.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_router_power.h
+END
+SIM_power_ALU.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_ALU.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/README
+END
+SIM_power_permu.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_permu.c
+END
+SIM_power_array_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_array_l.c
+END
+SIM_power_array_m.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_array_m.c
+END
+test_router.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/test_router.c
+END
+SIM_power_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_misc.c
+END
+SIM_power_clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_clock.c
+END
+router.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/router.c
+END
+SIM_power_misc_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_misc_internal.h
+END
+test_alu.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/test_alu.c
+END
+SIM_power_permu.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_permu.h
+END
+SIM_power_misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CMP/!svn/ver/1/MP_MIPS_CMP/popnetForSimplescalar/orion_power_beta_mar2003/power/SIM_power_misc.h
+END
